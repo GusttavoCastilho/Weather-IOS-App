@@ -95,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				CB423A302A4639980039D2C3 /* WeatherApp.swift */,
+				CB423A5A2A463D5E0039D2C3 /* Views */,
 				CB423A322A4639980039D2C3 /* ContentView.swift */,
 				CB423A342A4639990039D2C3 /* Assets.xcassets */,
 				CB423A362A4639990039D2C3 /* Preview Content */,
@@ -125,6 +126,13 @@
 				CB423A4D2A46399A0039D2C3 /* WeatherUITestsLaunchTests.swift */,
 			);
 			path = WeatherUITests;
+			sourceTree = "<group>";
+		};
+		CB423A5A2A463D5E0039D2C3 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
